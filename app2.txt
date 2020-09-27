@@ -1,1 +1,2 @@
-This is app 2
+This is app 2.
+and it branched with master branch
